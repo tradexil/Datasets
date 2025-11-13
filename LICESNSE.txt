@@ -1,0 +1,5 @@
+Copyright (c) 2025 Tradexil
+All rights reserved.
+
+You may view, use, and modify this software for personal, non-commercial purposes.
+Redistribution or public distribution in any form is prohibited without explicit permission from the author.
