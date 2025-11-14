@@ -1,6 +1,6 @@
-# Batch Parquet to JSON Converter
+# Datasets with precalculated 200+ features
 
-A professional, configurable batch converter for converting Parquet files to JSON format with support for multiple timeframes and years across Windows(+), Linux(~), and macOS(~).
+Below instructions how to convert from PARQUET to JSON format.
 
 
 ## Setup
@@ -195,3 +195,4 @@ For issues or questions, check:
 1. The `config.py` file for correct settings
 2. Folder structure matches the expected layout
 3. Python and PyArrow are properly installed
+
